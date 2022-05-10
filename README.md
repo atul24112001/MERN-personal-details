@@ -1,4 +1,4 @@
-####Personal Details
+#Personal Details
 
 ![Alt text](<./frontend/src/Assets/Screenshot%20(19).png?raw=true> "Title")
 ![Alt text](<./frontend/src/Assets/Screenshot%20(20).png?raw=true> "Title")
